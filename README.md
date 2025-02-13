@@ -1,2 +1,2 @@
 # e-commerce_website
-e-commerce wepage
+e-commerce webpage
