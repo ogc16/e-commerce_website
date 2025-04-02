@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150">
+  <rect width="300" height="150" fill="white"/>
+  <rect x="100" y="40" width="40" height="40" fill="#f25022"/>
+  <rect x="145" y="40" width="40" height="40" fill="#7fba00"/>
+  <rect x="100" y="85" width="40" height="40" fill="#00a4ef"/>
+  <rect x="145" y="85" width="40" height="40" fill="#ffb900"/>
+  <text x="150" y="140" font-family="Arial" font-size="16" text-anchor="middle">MICROSOFT</text>
+</svg>
+
